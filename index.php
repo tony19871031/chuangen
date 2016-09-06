@@ -8,4 +8,5 @@ echo "line 7";
 echo "line 6";
 echo "line 8";
 echo "line 10";
+echo "line 9";
 ?>
